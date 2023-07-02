@@ -1,0 +1,6 @@
+export {default as TagsModal} from './Modal/TagsModal/TagsModal.js'
+export {default as CreateNoteModal} from './Modal/CreateNoteModal/CreateNoteModal.js'
+export {default as FiltersModal} from './Modal/FiltersModal/FiltersModal.js'
+export {default as ReadNoteModal} from './Modal/ReadNoteModal/ReadNoteModal.js'
+export {default as NoteCard} from './NoteCard/NoteCard.js'
+export {default as TextEditor} from './TextEditor/TextEditor.js'
